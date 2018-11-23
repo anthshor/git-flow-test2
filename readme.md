@@ -1,1 +1,1 @@
-This is a git merge test
+This is a git merge test on the release branch
